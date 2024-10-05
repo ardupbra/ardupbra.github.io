@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ardupbra.github.io/sitemap.html.gz
+Sitemap: https://ardupbra.github.io/app/sitemap.html.gz
+Sitemap: https://ardupbra.github.io/assets/sitemap.html.gz
+Sitemap: https://ardupbra.github.io/css/sitemap.html.gz
+Sitemap: https://ardupbra.github.io/data/sitemap.html.gz
+Sitemap: https://ardupbra.github.io/includes/sitemap.html.gz
+Sitemap: https://ardupbra.github.io/item/sitemap.html.gz
+Sitemap: https://ardupbra.github.io/src/sitemap.html.gz
